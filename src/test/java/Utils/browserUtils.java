@@ -1,8 +1,9 @@
 package Utils;
 import org.apache.commons.io.FileUtils;
+import org.junit.Test;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.Select;
-import org.testng.annotations.Test;
+
 
 import java.io.File;
 import java.io.IOException;

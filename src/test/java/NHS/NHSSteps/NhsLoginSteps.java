@@ -12,8 +12,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 
 
-
-
 public class NhsLoginSteps {
    WebDriver driver= new ChromeDriver();
    LoginPage loginPage = new LoginPage(driver);
